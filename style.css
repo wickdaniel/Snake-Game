@@ -1,0 +1,41 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    animation: image 10s infinite alternate;
+    
+}
+
+@keyframes image{
+    0%{
+background-color:rgb(120, 120, 240);
+}
+    25%{
+    background-color:rgb(241, 114, 114);
+}
+    50%{
+    background-color:rgb(113, 240, 113);
+}
+    75%{
+
+    background-color:rgb(248, 197, 206);
+}
+    100%{
+    background-color:rgb(209, 209, 92);
+    }
+  }  
+    
+
+
+h1 {
+    color: rgb(20, 11, 13);
+}
+
+body .img-fundo {
+    width: 85px;
+    
+  }  
+
