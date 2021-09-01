@@ -5,4 +5,5 @@ A proposta deste projeto foi criar o jogo Snake. Projeto desenvolvido durante o 
 * HTML
 * CSS
 * JavaScript
+* Canvas
  
